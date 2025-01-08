@@ -11,7 +11,7 @@ This is a full-stack application to track a user's stock portfolio. It allows us
 
 ## Frontend
 - Built with React.
-- Deployed on [Vercel](my-stock-portfolio-c0fypgyvy-naga-sravanis-projects.vercel.app).
+- Deployed on [Vercel](https://my-stock-portfolio-git-main-naga-sravanis-projects.vercel.app/).
 - Responsive UI built with [TailwindCSS](https://tailwindcss.com) or [Bootstrap](https://getbootstrap.com).
 
 ## Backend
